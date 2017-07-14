@@ -13125,13 +13125,13 @@ h6 {
 .page-header-inner {
     background-attachment: fixed;
     background-position: left top;
-    background-image: url(/images/page-header.jpg)
+    background-image: url(page-header.jpg)
 }
 
 .footer-wrap {
     background-attachment: scroll;
     background-position: center top;
-    background-image: url(../img/pattern.gif)
+    background-image: url(pattern.gif)
 }
 
 .tp-caption a {
